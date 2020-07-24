@@ -1,4 +1,4 @@
-### Hi, I'm Daiana Delvalle 👋🙋
+<h2> Hi, I'm Daiana Delvalle 👋🙋 <img src= "https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif" widht="50"></hd>
 
 ## Backend Developer Jr and Journalist
 
