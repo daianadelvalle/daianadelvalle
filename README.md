@@ -3,7 +3,6 @@
 ## Backend Developer Jr and Journalist
 
 <!--
-**daianadelvalle/daianadelvalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I am currently looking for my first opportunity in the IT world
 - 💻 Some skills: Java, Git, Sring Boot, Sring MVC, Spring Security, MySQL, JPA, Jwt.
